@@ -52,6 +52,8 @@ Lintcode246BinaryTreePathSumII
 + [LintCode 016. Permutations II](../../../../../../../../../karakoram/kb/kb0000/src/main/java/com/anonymouscorgi/karakoram/kb0000/LintCode016PermutationsII.java)
 + [LintCode 135. Combination Sum](../../../../../../../../../karakoram/kb/kb0100/src/main/java/com/anonymouscorgi/karakoram/kb0100/LintCode135CombinationSum.java)
 + [LintCode 153. Combination Sum II](../../../../../../../../../karakoram/kb/kb0150/src/main/java/com/anonymouscorgi/karakoram/kb0150/LintCode153CombinationSumII.java)
++ [LintCode 017. Letter Combinations Of Phone Number](../../../../../../../../../karakoram/kb/kb0000/src/main/java/com/anonymouscorgi/karakoram/kb0000/LintCode017LetterCombinationsOfPhoneNumber.java)
++ [LintCode 136. Palindorome Partitioning](../../../../../../../../../karakoram/kb/kb0100/src/main/java/com/anonymouscorgi/karakoram/kb0100/LintCode136PalindoromePartitioning.java)
 
 #### 5.2 Graph
 
