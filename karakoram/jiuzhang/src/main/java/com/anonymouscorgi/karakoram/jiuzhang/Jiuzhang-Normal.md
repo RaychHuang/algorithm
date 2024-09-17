@@ -1,7 +1,5 @@
 # Jiuzhang - Normal
 
-+ [](../../../../../../../../../)
-
 ### Chapter 2 - Binary Search:
 
 + ##### [LeetCode 278 First Bad Version](/src/leetcode/p251to300/LeetCode278FirstBadVersion.java)
@@ -52,6 +50,8 @@ Lintcode246BinaryTreePathSumII
 
 + [LintCode 015. Permutations](../../../../../../../../../karakoram/kb/kb0000/src/main/java/com/anonymouscorgi/karakoram/kb0000/LintCode015Permutations.java)
 + [LintCode 016. Permutations II](../../../../../../../../../karakoram/kb/kb0000/src/main/java/com/anonymouscorgi/karakoram/kb0000/LintCode016PermutationsII.java)
++ [LintCode 135. Combination Sum](../../../../../../../../../karakoram/kb/kb0100/src/main/java/com/anonymouscorgi/karakoram/kb0100/LintCode135CombinationSum.java)
++ [LintCode 153. Combination Sum II](../../../../../../../../../karakoram/kb/kb0150/src/main/java/com/anonymouscorgi/karakoram/kb0150/LintCode153CombinationSumII.java)
 
 #### 5.2 Graph
 
@@ -62,3 +62,5 @@ Lintcode246BinaryTreePathSumII
 ##### 2. [LeetCode 126. Word Ladder II](/src/leetcode/p101to150/LeetCode126WordLadderII.java)
 
 + ##### [LeetCode 256. Paint House](../../../../../../../../../karakoram/kb/kb0250/src/main/java/com/anonymouscorgi/karakoram/kb0250/LeetCode256PaintHouse.java)
+
++ [](../../../../../../../../../)
