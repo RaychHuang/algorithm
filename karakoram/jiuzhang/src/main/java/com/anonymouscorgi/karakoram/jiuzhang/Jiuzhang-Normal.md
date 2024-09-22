@@ -53,10 +53,18 @@
 + [LeetCode 126. Word Ladder II](/src/leetcode/p101to150/LeetCode126WordLadderII.java)
 + [LeetCode 256. Paint House](../../../../../../../../../karakoram/kb/kb0250/src/main/java/com/anonymouscorgi/karakoram/kb0250/LeetCode256PaintHouse.java)
 
+### Chapter 6
+
+#### 6.1 Arraylist
+
++ [LeetCode 053. Maximum Subarray](../../../../../../../../../karakoram/kb/kb0050/src/main/java/com/anonymouscorgi/karakoram/kb0050/LeetCode053MaximumSubarray.java)
++ [LintCode 138. Subarray Sum](../../../../../../../../../karakoram/kb/kb0100/src/main/java/com/anonymouscorgi/karakoram/kb0100/LintCode138SubarraySum.java)
++ ***[LintCode 617. Maximum Average Subarray](../../../../../../../../../karakoram/kb/kb0600/src/main/java/com/anonymouscorgi/karakoram/kb0600/LintCode617MaximumAverageSubarray.java)***
+
 ### Sort
 
 + [LintCode 148. Sort Colors](../../../../../../../../../karakoram/kb/kb0100/src/main/java/com/anonymouscorgi/karakoram/kb0100/LintCode148SortColors.java)
-+ **[LintCode 143. Sort Colors II](../../../../../../../../../karakoram/kb/kb0100/src/main/java/com/anonymouscorgi/karakoram/kb0100/LintCode143SortColorsII.java)**
++ ***[LintCode 143. Sort Colors II](../../../../../../../../../karakoram/kb/kb0100/src/main/java/com/anonymouscorgi/karakoram/kb0100/LintCode143SortColorsII.java)***
 + [LintCode 625. Partition Array II](../../../../../../../../../karakoram/kb/kb0600/src/main/java/com/anonymouscorgi/karakoram/kb0600/LintCode625PartitionArrayII.java)
 + [LintCode 098. Sort List](../../../../../../../../../karakoram/kb/kb0050/src/main/java/com/anonymouscorgi/karakoram/kb0050/LintCode098SortList.java)
 
