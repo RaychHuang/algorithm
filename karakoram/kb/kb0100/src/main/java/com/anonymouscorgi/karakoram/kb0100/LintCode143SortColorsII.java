@@ -58,10 +58,4 @@ interface LintCode143SortColorsII {
       colors[b] = temp;
     }
   };
-
-  static void main(String[] args) {
-    int[] arr = {2, 1, 3, 4, 2, 4};
-    int k = 4;
-    QUICK_SORT.sortColors2(arr, k);
-  }
 }

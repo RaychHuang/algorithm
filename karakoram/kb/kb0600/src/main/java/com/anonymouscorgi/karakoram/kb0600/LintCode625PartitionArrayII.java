@@ -5,27 +5,11 @@ package com.anonymouscorgi.karakoram.kb0600;
  * <p>
  * Description
  *
- * Partition an unsorted integer array into three parts:
- * The front part < low;
- * The middle part >= low & <= high;
- * The tail part > high.
- * Return any of the possible solutions.
+ * Partition an unsorted integer array into three parts: The front part < low; The middle part >=
+ * low & <= high; The tail part > high. Return any of the possible solutions.
  *
- * Example 1:
- * Input:
- * [4,3,4,1,2,3,1,2]
- * 2
- * 3
- * Output:
- * [1,1,2,3,2,3,4,4]
- * Explanation:
- * [1,1,2,2,3,3,4,4] is also a correct answer, but [1,2,1,2,3,3,4,4] is not
- * Example 2:
- * Input:
- * [3,2,1]
- * 2
- * 3
- * Output:
+ * Example 1: Input: [4,3,4,1,2,3,1,2] 2 3 Output: [1,1,2,3,2,3,4,4] Explanation: [1,1,2,2,3,3,4,4]
+ * is also a correct answer, but [1,2,1,2,3,3,4,4] is not Example 2: Input: [3,2,1] 2 3 Output:
  * [1,2,3]
  */
 interface LintCode625PartitionArrayII {

@@ -61,10 +61,22 @@
 + [LintCode 138. Subarray Sum](../../../../../../../../../karakoram/kb/kb0100/src/main/java/com/anonymouscorgi/karakoram/kb0100/LintCode138SubarraySum.java)
 + ***[LintCode 617. Maximum Average Subarray](../../../../../../../../../karakoram/kb/kb0600/src/main/java/com/anonymouscorgi/karakoram/kb0600/LintCode617MaximumAverageSubarray.java)***
 
-### Sort
+#### 6.1 Cyclic List
+
++ [LintCode 599. Insert Into A Cyclic Sorted List](../../../../../../../../../karakoram/kb/kb0650/src/main/java/com/anonymouscorgi/karakoram/kb0650/LintCode599InsertIntoACyclicSortedList.java)
+
+### Chapter 7
+
+#### 7.1 Two Pointers
+
++ [LintCode 100. Remove Duplicates From Sorted Array](../../../../../../../../../karakoram/kb/kb0100/src/main/java/com/anonymouscorgi/karakoram/kb0100/LintCode100RemoveDuplicatesFromSortedArray.java)
++ [LintCode 101. Remove Duplicates From Sorted Array II](../../../../../../../../../karakoram/kb/kb0100/src/main/java/com/anonymouscorgi/karakoram/kb0100/LintCode101RemoveDuplicatesfromSortedArrayII.java)
+
+##### 7.1 Two Pointers - Sort
 
 + [LintCode 148. Sort Colors](../../../../../../../../../karakoram/kb/kb0100/src/main/java/com/anonymouscorgi/karakoram/kb0100/LintCode148SortColors.java)
 + ***[LintCode 143. Sort Colors II](../../../../../../../../../karakoram/kb/kb0100/src/main/java/com/anonymouscorgi/karakoram/kb0100/LintCode143SortColorsII.java)***
++ [LintCode 031. Partition Array](../../../../../../../../../karakoram/kb/kb0000/src/main/java/com/anonymouscorgi/karakoram/kb0000/LintCode031PartitionArray.java)
 + [LintCode 625. Partition Array II](../../../../../../../../../karakoram/kb/kb0600/src/main/java/com/anonymouscorgi/karakoram/kb0600/LintCode625PartitionArrayII.java)
 + [LintCode 098. Sort List](../../../../../../../../../karakoram/kb/kb0050/src/main/java/com/anonymouscorgi/karakoram/kb0050/LintCode098SortList.java)
 
