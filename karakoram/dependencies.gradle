@@ -5,6 +5,7 @@ repositories {
 }
 
 dependencies {
+    implementation project(':annotation')
     implementation project(':base')
     implementation "org.jetbrains.kotlin:kotlin-stdlib"
 

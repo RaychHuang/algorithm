@@ -79,5 +79,12 @@
 + [LintCode 031. Partition Array](../../../../../../../../../karakoram/kb/kb0000/src/main/java/com/anonymouscorgi/karakoram/kb0000/LintCode031PartitionArray.java)
 + [LintCode 625. Partition Array II](../../../../../../../../../karakoram/kb/kb0600/src/main/java/com/anonymouscorgi/karakoram/kb0600/LintCode625PartitionArrayII.java)
 + [LintCode 098. Sort List](../../../../../../../../../karakoram/kb/kb0050/src/main/java/com/anonymouscorgi/karakoram/kb0050/LintCode098SortList.java)
++ ***[LintCode 461. Kth Smallest Number In Unsorted Array](../../../../../../../../../karakoram/kb/kb0450/src/main/java/com/anonymouscorgi/karakoram/kb0450/LintCode461KthSmallestNumberInUnsortedArray.java)***
+
+##### 7.2 Two Sum
+
++ [LeetCode 001. Two Sum](../../../../../../../../../karakoram/kb/kb0000/src/main/java/com/anonymouscorgi/karakoram/kb0000/LeetCode001TwoSum.java)
++ [LintCode 587. Two Sum Unique Pairs](../../../../../../../../../karakoram/kb/kb0550/src/main/java/com/anonymouscorgi/karakoram/kb0550/LintCode587TwoSumUniquePairs.java)
++ [LintCode 610. Difference Equals To Target](../../../../../../../../../karakoram/kb/kb0600/src/main/java/com/anonymouscorgi/karakoram/kb0600/LintCode610DifferenceEqualsToTarget.java)
 
 + [](../../../../../../../../../)
