@@ -2,10 +2,10 @@
 
 ### Array Subsequence
 
-+ [LeetCode 198. House Robber I](/src/leetcode/p151to200/LeetCode198HouseRobberI.java)
-+ [LeetCode 213. House Robber II](/src/leetcode/p201to250/LeetCode213HouseRobberII.java)
-+ [LeetCode 337. House Robber III](/src/leetcode/p301to350/LeetCode337HouseRobberIII.java)
-+ [LeetCode 746. Min Cost Climbing Stairs](/src/leetcode/p701to750LeetCode746MinCostClimbingStairs.java)
++ [LeetCode 198. House Robber I](../../../../../../../../../karakoram/kb/kb0150/src/main/java/com/anonymouscorgi/karakoram/kb0150/LeetCode198HouseRobberI.java)
++ [LeetCode 213. House Robber II](../../../../../../../../../karakoram/kb/kb0200/src/main/java/com/anonymouscorgi/karakoram/kb0200/LeetCode213HouseRobberII.java)
++ [LeetCode 337. House Robber III](../../../../../../../../../karakoram/kb/kb0300/src/main/java/com/anonymouscorgi/karakoram/kb0300/LeetCode337HouseRobberIII.java)
++ [LeetCode 746. Min Cost Climbing Stairs](../../../../../../../../../karakoram/kb/kb0700/src/main/java/com/anonymouscorgi/karakoram/kb0700/LeetCode746MinCostClimbingStairs.java)
 
 ### Longest Increasing Subsequence
 

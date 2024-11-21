@@ -1,7 +1,9 @@
 package com.anonymouscorgi.karakoram.kb0150;
 
+import com.anonymouscorgi.karakoram.annotation.Easy;
+
 /**
- * 198. House Robber Easy
+ * LeetCode 198. House Robber Easy
  *
  * You are a professional robber planning to rob houses along a street. Each house has a certain
  * amount of money stashed, the only constraint stopping you from robbing each of them is that
@@ -17,6 +19,7 @@ package com.anonymouscorgi.karakoram.kb0150;
  * Example 2: Input: [2,7,9,3,1] Output: 12 Explanation: Rob house 1 (money = 2), rob house 3 (money
  * = 9) and rob house 5 (money = 1). Total amount you can rob = 2 + 9 + 1 = 12.
  */
+@Easy
 interface LeetCode198HouseRobberI {
 
   int rob(int[] nums);
