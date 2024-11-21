@@ -1,6 +1,8 @@
 package com.anonymouscorgi.karakoram.jiuzhang.c6.linkedlist;
 
 import com.anonymouscorgi.karakoram.base.ListNode;
+import com.anonymouscorgi.karakoram.base.util.ListNodeUtil;
+
 public class M170RotateList {
 	
     public ListNode rotateRight(ListNode head, int k) {
@@ -35,7 +37,7 @@ public class M170RotateList {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		int[] arr = {1,2,3,4,5};
-		ListNode head = ListNode.fromIntArray(arr);
+		ListNode head = ListNodeUtil.fromIntArray(arr);
 		M170RotateList one = new M170RotateList();
 		System.out.println(head.toString());
 		head = one.rotateRight(head, 1);

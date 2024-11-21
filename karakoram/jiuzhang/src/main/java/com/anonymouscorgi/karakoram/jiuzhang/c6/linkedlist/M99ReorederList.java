@@ -1,6 +1,7 @@
 package com.anonymouscorgi.karakoram.jiuzhang.c6.linkedlist;
 
 import com.anonymouscorgi.karakoram.base.ListNode;
+import com.anonymouscorgi.karakoram.base.util.ListNodeUtil;
 
 public class M99ReorederList {
 	
@@ -46,7 +47,7 @@ public class M99ReorederList {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		int[] arr = {2, 1, 0};
-		ListNode head = ListNode.fromIntArray(arr);
+		ListNode head = ListNodeUtil.fromIntArray(arr);
 		M99ReorederList one = new M99ReorederList();
 		System.out.println(head.toString());
 		one.reorderList(head);
